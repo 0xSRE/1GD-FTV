@@ -12,6 +12,7 @@ The focus is operating limits an owner can watch on a gauge or OBD scanner: **oi
 | [docs/oil-pressure.md](docs/oil-pressure.md) | Oil pressure expectations, oil spec and capacity, what to do about low readings |
 | [docs/egt.md](docs/egt.md) | EGT sensor locations, DPF regeneration temps, safe EGT guidance for towing and modified engines |
 | [docs/known-issues.md](docs/known-issues.md) | Common faults, DTCs and Toyota TSBs |
+| [transmissions/](transmissions/README.md) | Gearboxes paired with the 1GD: AC60 6AT, RC61 6MT, Prado 250 8AT |
 
 ## How numbers are labelled
 
